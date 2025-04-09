@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm a **24 y/o Full-Stack Developer** based in **Reggio Emilia, Italy 🇮🇹** — i love building digital experiences.
+I'm a **24 y/o Full-Stack Developer** based in **Reggio Emilia, Italy** — I love building digital experiences.
 
 ## When I'm not coding or studing
 
