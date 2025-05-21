@@ -1,6 +1,6 @@
 # Hey there!
 
-- **24 y/o Full-Stack Developer** based in **Reggio Emilia, Italy**  
+- **25 y/o Full-Stack Developer** based in **Reggio Emilia, Italy**  
 <!--## When I'm not coding or studing
 
 You’ll probably find me
